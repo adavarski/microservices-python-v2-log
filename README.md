@@ -1,5 +1,5 @@
-# simplebank
-App for the Microservices
+# Bank
+App for the Microservices with Python framework for building microservices https://www.nameko.io
 
 Stop all simplebank containers running
 
